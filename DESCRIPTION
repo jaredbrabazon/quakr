@@ -13,7 +13,7 @@ Depends: R (>= 3.3.0),
 Imports: ggplot2,
   tidyverse,
   ggmap
-License: CCO
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: knitr,
